@@ -1,5 +1,3 @@
-# Create Terraform Cloud Organization:-
-
 Greetings my fellow Technology Advocates and Specialists.
 
 This is __Chapter #1__ of my Terraform Cloud Series.
@@ -8,7 +6,7 @@ In this Session, I will demonstrate, how to __Create Terraform Cloud Organizatio
 
 | __CONTRIBUTOR(S):-__ |
 | --------- |
-| Anand Arbone - @anandarbone ; @anandarbone_94 |
+| Anand Arbone - @anandarbone |
 
 | __REQUIREMENTS:-__ |
 | --------- |
