@@ -1,3 +1,5 @@
+# Create Terraform Cloud Organization
+
 Greetings my fellow Technology Advocates and Specialists.
 
 This is __Chapter #1__ of my Terraform Cloud Series.
