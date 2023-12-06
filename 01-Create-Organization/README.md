@@ -12,8 +12,7 @@ In this Session, I will demonstrate, how to __Create Terraform Cloud Organizatio
 
 | __REQUIREMENTS:-__ |
 | --------- |
-
-1. Terraform Cloud.
+| 1. Terraform Cloud. |
 
 | __TERRAFORM CLOUD LOGIN URL:-__ |
 | --------- |
@@ -29,7 +28,8 @@ In this Session, I will demonstrate, how to __Create Terraform Cloud Organizatio
 | 3. __Organization "MITRA008" created successfully in Terraform Cloud__. |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bob4h2lpe69h7crh7jtk.jpg) |
 
-
 __Hope You Enjoyed the Session!!!__
 
 __Stay Safe | Keep Learning | Spread Knowledge__
+
+
