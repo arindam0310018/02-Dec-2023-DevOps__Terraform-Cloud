@@ -6,7 +6,7 @@ This is __Chapter #3__ of my Terraform Cloud Session.
 
 In this Session, I will demonstrate, how to __Create Project(s) and Workspace(s) including Setup of Workspace(s).__
 
-| __CONTRIBUTOR(S):-__ |
+| __ADDITIONAL CONTRIBUTOR(S):-__ |
 | --------- |
 | Anand Arbone - @anandarbone |
 
