@@ -6,7 +6,7 @@ This is __Chapter #2__ of my Terraform Cloud Series.
 
 In this Session, I will demonstrate, how to __Integrate Azure Devops and Terraform Cloud.__
 
-| __ADDITONAL CONTRIBUTOR(S):-__ |
+| __ADDITIONAL CONTRIBUTOR(S):-__ |
 | --------- |
 | 1. Anand Arbone - @anandarbone |
 
