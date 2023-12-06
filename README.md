@@ -2,8 +2,8 @@
 
 | __CONTRIBUTORS:-__ |
 | --------- |
-| __Arindam Mitra__ |
-| __Anand Arbone__ |
+| 1. __Arindam Mitra__ |
+| 2. __Anand Arbone__ |
 
 Greetings to my fellow Technology Advocates and Specialists.
 
