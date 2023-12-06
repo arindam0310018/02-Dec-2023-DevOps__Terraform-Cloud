@@ -6,7 +6,7 @@ This is __Chapter #1__ of my Terraform Cloud Series.
 
 In this Session, I will demonstrate, how to __Create Terraform Cloud Organization.__
 
-| __CONTRIBUTOR(S):-__ |
+| __ADDITIONAL CONTRIBUTOR(S):-__ |
 | --------- |
 | Anand Arbone - @anandarbone |
 
